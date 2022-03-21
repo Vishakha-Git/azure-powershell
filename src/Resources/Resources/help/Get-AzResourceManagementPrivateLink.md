@@ -1,7 +1,7 @@
 ---
 external help file: Microsoft.Azure.PowerShell.Cmdlets.Resources.dll-Help.xml
 Module Name: Az.Resources
-online version: https://docs.microsoft.com/powershell/module/az.resources/get-azresourcemanagementprivatelink/
+online version: https://docs.microsoft.com/powershell/module/az.resources/get-azresourcemanagementprivatelink
 schema: 2.0.0
 ---
 
@@ -176,3 +176,4 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ## RELATED LINKS
 
 [Remove-AzResourceManagementPrivateLink](./Remove-AzResourceManagementPrivateLink.md)
+[New-AzResourceManagementPrivateLink](./New-AzResourceManagementPrivateLink.md)

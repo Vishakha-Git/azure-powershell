@@ -161,6 +161,8 @@ CmdletsToExport = 'Get-AzProviderOperation', 'Remove-AzRoleAssignment',
                'Remove-AzTemplateSpec', 'Publish-AzBicepModule',
                'Get-AzResourceManagementPrivateLink',
                'Remove-AzResourceManagementPrivateLink',
+               'New-AzResourceManagementPrivateLink',
+               'New-AzPrivateLinkAssociation',
                'Get-AzPrivateLinkAssociation',
                'Remove-AzPrivateLinkAssociation'
 
